@@ -24,7 +24,7 @@
 <p align="center">
   <img height="150" width="150" src="https://github.com/PHnextgen/PHnextgen/blob/main/WEBP/left.webp">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=PHnextgen&theme=dark&hide_border=true"/>
-  <img height="150" width="150" src="https://github.com/PHnextgen/PHnextge/blob/main/WEBP/right.webp">
+  <img height="150" width="150" src="https://github.com/PHnextgen/PHnextgen/blob/main/WEBP/right.webp">
 </p>
 
 #
